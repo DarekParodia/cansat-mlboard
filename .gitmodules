@@ -1,0 +1,3 @@
+[submodule "modules/model-converter"]
+	path = modules/model-converter
+	url = https://github.com/DarekParodia/model-converter.git
